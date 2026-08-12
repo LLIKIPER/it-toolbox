@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns:clr="http://schemas.cleverence.ru/clr" barcode="6201000028269" createDate="2026-04-16T15:33:32.2670160+09:00" lastChangeDate="2026-08-12T16:45:35.6334879+09:00" deviceId="" deviceIP="10.154.0.4" deviceName="" distributeByBarcode="True" documentTypeName="РасходнаяНакладная" id="O-182-___8885877Ч" name="СТ26Рн-00000000002 от 09.04.26" serverHosted="True" appointment="" userId="Х0000424" userName="Журавлёв Никита Борисович" warehouseId="B-27-_________2">
+	<Fields>
+		<FieldValue fieldName="ЗагруженВ1С">
+			<Value clr:Type="Int32">1</Value>
+		</FieldValue>
+	</Fields>
+	<States>
+		<DocumentState finished="True" finishedDate="2026-08-12T16:45:34.5615889+09:00" inProcess="False" inProcessDate="2026-08-12T16:45:33.8220463+09:00" modified="True" modifiedDate="2026-06-22T10:43:48.7687716+09:00" processingTime="00:00:00" userId="Х0000424"/>
+	</States>
+	<Tables>
+		<DocumentTable count="0" name="ВРаботе" version="">
+			<Rows/>
+		</DocumentTable>
+		<DocumentTable count="16" name="Сканирование" version="">
+			<Rows>
+				<Row uid="9bd74d5a-923a-4463-a061-1914efcc2a3b" ИдТовара="B-49-_____75116Ч" ИдЕдиницы="B-612-____121476Ч" ScannedBarcode="0107640157156422215a1eGUGZjJ1D)V&#x1D;93rJDA" Packing="ref:28">
+					<Product clr:Type="Product" basePackingId="B-612-____121475Ч" id="B-49-_____75116Ч" marking="" name="Напиток газированный Fr. Bar Jelly Bears (мармеладные мишки)  пэт 0,480 1*12" Decimal_ОстатокЧита="2460" Decimal_ОстатокБорзя="353" Decimal_ОстатокНерчинск="1" Decimal_ОстатокКраснокаменск="0" Boolean_ЧестныйЗнак="True" Boolean_ЧестныйЗнак_ПоэкземплярныйУчет="True" Boolean_Весовой="False" Boolean_РазрешитьПревышениеКоличестваПлана="False">
+						<QuantityPolicy multiline="False">
+							<PackingIds>
+								<String>B-612-____121476Ч</String>
+								<String>B-612-____121475Ч</String>
+							</PackingIds>
+						</QuantityPolicy>
+						<Packings>
+							<Packing barcode="7640157156415" id="B-612-____121475Ч" name="шт"/>
+							<Packing barcode="7640157156422" id="B-612-____121476Ч" name="кор" unitsQuantity="12"/>
+						</Packings>
+					</Product>
+				</Row>
+				<Row uid="852cbb21-7da1-4a1f-a4e7-847e94102a00" ИдТовара="B-49-_____75116Ч" ИдЕдиницы="B-612-____121476Ч" ScannedBarcode="0107640157156422215-jFh&amp;g!W.dpt&#x1D;93pm2m" Packing="ref:35">
+					<Product clr:Type="Product" basePackingId="B-612-____121475Ч" id="B-49-_____75116Ч" marking="" name="Напиток газированный Fr. Bar Jelly Bears (мармеладные мишки)  пэт 0,480 1*12" Decimal_ОстатокЧита="2460" Decimal_ОстатокБорзя="353" Decimal_ОстатокНерчинск="1" Decimal_ОстатокКраснокаменск="0" Boolean_ЧестныйЗнак="True" Boolean_ЧестныйЗнак_ПоэкземплярныйУчет="True" Boolean_Весовой="False" Boolean_РазрешитьПревышениеКоличестваПлана="False">
+						<QuantityPolicy multiline="False">
+							<PackingIds>
+								<String>B-612-____121476Ч</String>
+								<String>B-612-____121475Ч</String>
+							</PackingIds>
+						</QuantityPolicy>
+						<Packings>
+							<Packing barcode="7640157156415" id="B-612-____121475Ч" name="шт"/>
+							<Packing barcode="7640157156422" id="B-612-____121476Ч" name="кор" unitsQuantity="12"/>
+						</Packings>
+					</Product>
+				</Row>
+				<Row uid="661c60d2-7ea2-4d14-943d-cca186aba628" ИдТовара="B-49-_____75116Ч" ИдЕдиницы="B-612-____121476Ч" ScannedBarcode="0107640157156422215-jFh&amp;g!W.dpt&#x1D;93pm2m" Packing="ref:42">
+					<Product clr:Type="Product" basePackingId="B-612-____121475Ч" id="B-49-_____75116Ч" marking="" name="Напиток газированный Fr. Bar Jelly Bears (мармеладные мишки)  пэт 0,480 1*12" Decimal_ОстатокЧита="2460" Decimal_ОстатокБорзя="353" Decimal_ОстатокНерчинск="1" Decimal_ОстатокКраснокаменск="0" Boolean_ЧестныйЗнак="True" Boolean_ЧестныйЗнак_ПоэкземплярныйУчет="True" Boolean_Весовой="False" Boolean_РазрешитьПревышениеКоличестваПлана="False">
+						<QuantityPolicy multiline="False">
+							<PackingIds>
+								<String>B-612-____121476Ч</String>
+								<String>B-612-____121475Ч</String>
+							</PackingIds>
+						</QuantityPolicy>
+						<Packings>
+							<Packing barcode="7640157156415" id="B-612-____121475Ч" name="шт"/>
+							<Packing barcode="7640157156422" id="B-612-____121476Ч" name="кор" unitsQuantity="12"/>
+						</Packings>
+					</Product>
+				</Row>
+				<Row uid="3d8d7b10-afe5-4ddb-bf52-710891e0158f" ИдТовара="B-49-_____75116Ч" ИдЕдиницы="B-612-____121476Ч" ScannedBarcode="0107640157156422215-jFh&amp;g!W.dpt&#x1D;93pm2m" Packing="ref:49">
+					<Product clr:Type="Product" basePackingId="B-612-____121475Ч" id="B-49-_____75116Ч" marking="" name="Напиток газированный Fr. Bar Jelly Bears (мармеладные мишки)  пэт 0,480 1*12" Decimal_ОстатокЧита="2460" Decimal_ОстатокБорзя="353" Decimal_ОстатокНерчинск="1" Decimal_ОстатокКраснокаменск="0" Boolean_ЧестныйЗнак="True" Boolean_ЧестныйЗнак_ПоэкземплярныйУчет="True" Boolean_Весовой="False" Boolean_РазрешитьПревышениеКоличестваПлана="False">
+						<QuantityPolicy multiline="False">
+							<PackingIds>
+								<String>B-612-____121476Ч</String>
+								<String>B-612-____121475Ч</String>
+							</PackingIds>
+						</QuantityPolicy>
+						<Packings>
+							<Packing barcode="7640157156415" id="B-612-____121475Ч" name="шт"/>
+							<Packing barcode="7640157156422" id="B-612-____121476Ч" name="кор" unitsQuantity="12"/>
+						</Packings>
+					</Product>
+				</Row>
+				<Row uid="0f7efe8f-08e7-4be2-b0ae-339fc1ba4afa" ИдТовара="B-49-_____75116Ч" ИдЕдиницы="B-612-____121476Ч" ScannedBarcode="0107640157156422215-jFh&amp;g!W.dpt&#x1D;93pm2m" Packing="ref:56">
+					<Product clr:Type="Product" basePackingId="B-612-____121475Ч" id="B-49-_____75116Ч" marking="" name="Напиток газированный Fr. Bar Jelly Bears (мармеладные мишки)  пэт 0,480 1*12" Decimal_ОстатокЧита="2460" Decimal_ОстатокБорзя="353" Decimal_ОстатокНерчинск="1" Decimal_ОстатокКраснокаменск="0" Boolean_ЧестныйЗнак="True" Boolean_ЧестныйЗнак_ПоэкземплярныйУчет="True" Boolean_Весовой="False" Boolean_РазрешитьПревышениеКоличестваПлана="False">
+						<QuantityPolicy multiline="False">
+							<PackingIds>
+								<String>B-612-____121476Ч</String>
+								<String>B-612-____121475Ч</String>
+							</PackingIds>
+						</QuantityPolicy>
+						<Packings>
+							<Packing barcode="7640157156415" id="B-612-____121475Ч" name="шт"/>
+							<Packing barcode="7640157156422" id="B-612-____121476Ч" name="кор" unitsQuantity="12"/>
+						</Packings>
+					</Product>
+				</Row>
+				<Row uid="3b167f37-c1ab-43a7-ac1a-f607cd04d709" ИдТовара="B-49-_____75116Ч" ИдЕдиницы="B-612-____121476Ч" ScannedBarcode="0107640157156422215-jFh&amp;g!W.dpt&#x1D;93pm2m" Packing="ref:63">
+					<Product clr:Type="Product" basePackingId="B-612-____121475Ч" id="B-49-_____75116Ч" marking="" name="Напиток газированный Fr. Bar Jelly Bears (мармеладные мишки)  пэт 0,480 1*12" Decimal_ОстатокЧита="2460" Decimal_ОстатокБорзя="353" Decimal_ОстатокНерчинск="1" Decimal_ОстатокКраснокаменск="0" Boolean_ЧестныйЗнак="True" Boolean_ЧестныйЗнак_ПоэкземплярныйУчет="True" Boolean_Весовой="False" Boolean_РазрешитьПревышениеКоличестваПлана="False">
+						<QuantityPolicy multiline="False">
+							<PackingIds>
+								<String>B-612-____121476Ч</String>
+								<String>B-612-____121475Ч</String>
+							</PackingIds>
+						</QuantityPolicy>
+						<Packings>
+							<Packing barcode="7640157156415" id="B-612-____121475Ч" name="шт"/>
+							<Packing barcode="7640157156422" id="B-612-____121476Ч" name="кор" unitsQuantity="12"/>
+						</Packings>
+					</Product>
+				</Row>
+				<Row uid="5260c4f9-2e78-4516-ad6e-8d31f867f32b" ИдТовара="B-49-_____75116Ч" ИдЕдиницы="B-612-____121476Ч" ScannedBarcode="0107640157156422215-jFh&amp;g!W.dpt&#x1D;93pm2m" Packing="ref:70">
+					<Product clr:Type="Product" basePackingId="B-612-____121475Ч" id="B-49-_____75116Ч" marking="" name="Напиток газированный Fr. Bar Jelly Bears (мармеладные мишки)  пэт 0,480 1*12" Decimal_ОстатокЧита="2460" Decimal_ОстатокБорзя="353" Decimal_ОстатокНерчинск="1" Decimal_ОстатокКраснокаменск="0" Boolean_ЧестныйЗнак="True" Boolean_ЧестныйЗнак_ПоэкземплярныйУчет="True" Boolean_Весовой="False" Boolean_РазрешитьПревышениеКоличестваПлана="False">
+						<QuantityPolicy multiline="False">
+							<PackingIds>
+								<String>B-612-____121476Ч</String>
+								<String>B-612-____121475Ч</String>
+							</PackingIds>
+						</QuantityPolicy>
+						<Packings>
+							<Packing barcode="7640157156415" id="B-612-____121475Ч" name="шт"/>
+							<Packing barcode="7640157156422" id="B-612-____121476Ч" name="кор" unitsQuantity="12"/>
+						</Packings>
+					</Product>
+				</Row>
+				<Row uid="00cf306b-d78a-43b3-ad1a-9da517d6c87e" ИдТовара="B-49-_____75116Ч" ИдЕдиницы="B-612-____121476Ч" ScannedBarcode="0107640157156422215-jFh&amp;g!W.dpt&#x1D;93pm2m" Packing="ref:77">
+					<Product clr:Type="Product" basePackingId="B-612-____121475Ч" id="B-49-_____75116Ч" marking="" name="Напиток газированный Fr. Bar Jelly Bears (мармеладные мишки)  пэт 0,480 1*12" Decimal_ОстатокЧита="2460" Decimal_ОстатокБорзя="353" Decimal_ОстатокНерчинск="1" Decimal_ОстатокКраснокаменск="0" Boolean_ЧестныйЗнак="True" Boolean_ЧестныйЗнак_ПоэкземплярныйУчет="True" Boolean_Весовой="False" Boolean_РазрешитьПревышениеКоличестваПлана="False">
+						<QuantityPolicy multiline="False">
+							<PackingIds>
+								<String>B-612-____121476Ч</String>
+								<String>B-612-____121475Ч</String>
+							</PackingIds>
+						</QuantityPolicy>
+						<Packings>
+							<Packing barcode="7640157156415" id="B-612-____121475Ч" name="шт"/>
+							<Packing barcode="7640157156422" id="B-612-____121476Ч" name="кор" unitsQuantity="12"/>
+						</Packings>
+					</Product>
+				</Row>
+				<Row uid="661aa2e7-7843-4530-a2e8-70d3ac4fc821" ИдТовара="B-49-_____75116Ч" ИдЕдиницы="B-612-____121476Ч" ScannedBarcode="0107640157156422215-jFh&amp;g!W.dpt&#x1D;93pm2m" Packing="ref:84">
+					<Product clr:Type="Product" basePackingId="B-612-____121475Ч" id="B-49-_____75116Ч" marking="" name="Напиток газированный Fr. Bar Jelly Bears (мармеладные мишки)  пэт 0,480 1*12" Decimal_ОстатокЧита="2460" Decimal_ОстатокБорзя="353" Decimal_ОстатокНерчинск="1" Decimal_ОстатокКраснокаменск="0" Boolean_ЧестныйЗнак="True" Boolean_ЧестныйЗнак_ПоэкземплярныйУчет="True" Boolean_Весовой="False" Boolean_РазрешитьПревышениеКоличестваПлана="False">
+						<QuantityPolicy multiline="False">
+							<PackingIds>
+								<String>B-612-____121476Ч</String>
+								<String>B-612-____121475Ч</String>
+							</PackingIds>
+						</QuantityPolicy>
+						<Packings>
+							<Packing barcode="7640157156415" id="B-612-____121475Ч" name="шт"/>
+							<Packing barcode="7640157156422" id="B-612-____121476Ч" name="кор" unitsQuantity="12"/>
+						</Packings>
+					</Product>
+				</Row>
+				<Row uid="c53367ed-7a81-4583-8781-1f032aa7e3d3" ИдТовара="B-49-_____75116Ч" ИдЕдиницы="B-612-____121476Ч" ScannedBarcode="0107640157156422215-jFh&amp;g!W.dpt&#x1D;93pm2m" Packing="ref:91">
+					<Product clr:Type="Product" basePackingId="B-612-____121475Ч" id="B-49-_____75116Ч" marking="" name="Напиток газированный Fr. Bar Jelly Bears (мармеладные мишки)  пэт 0,480 1*12" Decimal_ОстатокЧита="2460" Decimal_ОстатокБорзя="353" Decimal_ОстатокНерчинск="1" Decimal_ОстатокКраснокаменск="0" Boolean_ЧестныйЗнак="True" Boolean_ЧестныйЗнак_ПоэкземплярныйУчет="True" Boolean_Весовой="False" Boolean_РазрешитьПревышениеКоличестваПлана="False">
+						<QuantityPolicy multiline="False">
+							<PackingIds>
+								<String>B-612-____121476Ч</String>
+								<String>B-612-____121475Ч</String>
+							</PackingIds>
+						</QuantityPolicy>
+						<Packings>
+							<Packing barcode="7640157156415" id="B-612-____121475Ч" name="шт"/>
+							<Packing barcode="7640157156422" id="B-612-____121476Ч" name="кор" unitsQuantity="12"/>
+						</Packings>
+					</Product>
+				</Row>
+				<Row uid="69ce106e-a5c8-4ffa-9f26-e74b8cbae985" ИдТовара="B-49-_____75116Ч" ИдЕдиницы="B-612-____121476Ч" ScannedBarcode="0107640157156422215-jFh&amp;g!W.dpt&#x1D;93pm2m" Packing="ref:98">
+					<Product clr:Type="Product" basePackingId="B-612-____121475Ч" id="B-49-_____75116Ч" marking="" name="Напиток газированный Fr. Bar Jelly Bears (мармеладные мишки)  пэт 0,480 1*12" Decimal_ОстатокЧита="2460" Decimal_ОстатокБорзя="353" Decimal_ОстатокНерчинск="1" Decimal_ОстатокКраснокаменск="0" Boolean_ЧестныйЗнак="True" Boolean_ЧестныйЗнак_ПоэкземплярныйУчет="True" Boolean_Весовой="False" Boolean_РазрешитьПревышениеКоличестваПлана="False">
+						<QuantityPolicy multiline="False">
+							<PackingIds>
+								<String>B-612-____121476Ч</String>
+								<String>B-612-____121475Ч</String>
+							</PackingIds>
+						</QuantityPolicy>
+						<Packings>
+							<Packing barcode="7640157156415" id="B-612-____121475Ч" name="шт"/>
+							<Packing barcode="7640157156422" id="B-612-____121476Ч" name="кор" unitsQuantity="12"/>
+						</Packings>
+					</Product>
+				</Row>
+				<Row uid="69ce106e-a5c8-4ffa-9f26-e74b8cbae985" ИдТовара="B-49-_____75116Ч" ИдЕдиницы="B-612-____121476Ч" ScannedBarcode="0107640157156422215-jFh&amp;g!W.dpt&#x1D;93pm2m" Packing="ref:105">
+					<Product clr:Type="Product" basePackingId="B-612-____121475Ч" id="B-49-_____75116Ч" marking="" name="Напиток газированный Fr. Bar Jelly Bears (мармеладные мишки)  пэт 0,480 1*12" Decimal_ОстатокЧита="2460" Decimal_ОстатокБорзя="353" Decimal_ОстатокНерчинск="1" Decimal_ОстатокКраснокаменск="0" Boolean_ЧестныйЗнак="True" Boolean_ЧестныйЗнак_ПоэкземплярныйУчет="True" Boolean_Весовой="False" Boolean_РазрешитьПревышениеКоличестваПлана="False">
+						<QuantityPolicy multiline="False">
+							<PackingIds>
+								<String>B-612-____121476Ч</String>
+								<String>B-612-____121475Ч</String>
+							</PackingIds>
+						</QuantityPolicy>
+						<Packings>
+							<Packing barcode="7640157156415" id="B-612-____121475Ч" name="шт"/>
+							<Packing barcode="7640157156422" id="B-612-____121476Ч" name="кор" unitsQuantity="12"/>
+						</Packings>
+					</Product>
+				</Row>
+				<Row uid="a3bf6458-4dfb-448c-8b82-889dcf6bf3d9" ИдТовара="B-49-_____75116Ч" ИдЕдиницы="B-612-____121476Ч" ScannedBarcode="0107640157156422215-jFh&amp;g!W.dpt&#x1D;93pm2m" Packing="ref:112">
+					<Product clr:Type="Product" basePackingId="B-612-____121475Ч" id="B-49-_____75116Ч" marking="" name="Напиток газированный Fr. Bar Jelly Bears (мармеладные мишки)  пэт 0,480 1*12" Decimal_ОстатокЧита="2460" Decimal_ОстатокБорзя="353" Decimal_ОстатокНерчинск="1" Decimal_ОстатокКраснокаменск="0" Boolean_ЧестныйЗнак="True" Boolean_ЧестныйЗнак_ПоэкземплярныйУчет="True" Boolean_Весовой="False" Boolean_РазрешитьПревышениеКоличестваПлана="False">
+						<QuantityPolicy multiline="False">
+							<PackingIds>
+								<String>B-612-____121476Ч</String>
+								<String>B-612-____121475Ч</String>
+							</PackingIds>
+						</QuantityPolicy>
+						<Packings>
+							<Packing barcode="7640157156415" id="B-612-____121475Ч" name="шт"/>
+							<Packing barcode="7640157156422" id="B-612-____121476Ч" name="кор" unitsQuantity="12"/>
+						</Packings>
+					</Product>
+				</Row>
+				<Row uid="a3bf6458-4dfb-448c-8b82-889dcf6bf3d9" ИдТовара="B-49-_____75116Ч" ИдЕдиницы="B-612-____121476Ч" ScannedBarcode="0107640157156422215-jFh&amp;g!W.dpt&#x1D;93pm2m" Packing="ref:119">
+					<Product clr:Type="Product" basePackingId="B-612-____121475Ч" id="B-49-_____75116Ч" marking="" name="Напиток газированный Fr. Bar Jelly Bears (мармеладные мишки)  пэт 0,480 1*12" Decimal_ОстатокЧита="2460" Decimal_ОстатокБорзя="353" Decimal_ОстатокНерчинск="1" Decimal_ОстатокКраснокаменск="0" Boolean_ЧестныйЗнак="True" Boolean_ЧестныйЗнак_ПоэкземплярныйУчет="True" Boolean_Весовой="False" Boolean_РазрешитьПревышениеКоличестваПлана="False">
+						<QuantityPolicy multiline="False">
+							<PackingIds>
+								<String>B-612-____121476Ч</String>
+								<String>B-612-____121475Ч</String>
+							</PackingIds>
+						</QuantityPolicy>
+						<Packings>
+							<Packing barcode="7640157156415" id="B-612-____121475Ч" name="шт"/>
+							<Packing barcode="7640157156422" id="B-612-____121476Ч" name="кор" unitsQuantity="12"/>
+						</Packings>
+					</Product>
+				</Row>
+				<Row uid="73988fae-73ee-45b0-b277-6db043276ab9" ИдТовара="B-49-_____75116Ч" ИдЕдиницы="B-612-____121476Ч" ScannedBarcode="0107640157156422215-jFh&amp;g!W.dpt&#x1D;93pm2m" Packing="ref:23">
+					<Product clr:Type="Product" basePackingId="B-612-____121475Ч" id="B-49-_____75116Ч" marking="" name="Напиток газированный Fr. Bar Jelly Bears (мармеладные мишки)  пэт 0,480 1*12" Decimal_ОстатокЧита="2460" Decimal_ОстатокБорзя="353" Decimal_ОстатокНерчинск="1" Decimal_ОстатокКраснокаменск="0" Boolean_ЧестныйЗнак="True" Boolean_ЧестныйЗнак_ПоэкземплярныйУчет="True" Boolean_Весовой="False" Boolean_РазрешитьПревышениеКоличестваПлана="False">
+						<QuantityPolicy multiline="False">
+							<PackingIds>
+								<String>B-612-____121476Ч</String>
+								<String>B-612-____121475Ч</String>
+							</PackingIds>
+						</QuantityPolicy>
+						<Packings>
+							<Packing barcode="7640157156415" id="B-612-____121475Ч" name="шт"/>
+							<Packing barcode="7640157156422" id="B-612-____121476Ч" name="кор" unitsQuantity="12"/>
+						</Packings>
+					</Product>
+				</Row>
+				<Row uid="c718d2e1-f822-4161-98d7-d18a0d96a5c7" ИдТовара="B-49-_____75116Ч" ИдЕдиницы="B-612-____121476Ч" ScannedBarcode="0107640157156422215a1eGUGZjJD)V&#x1D;93rJDA" Packing="ref:30">
+					<Product clr:Type="Product" basePackingId="B-612-____121475Ч" id="B-49-_____75116Ч" marking="" name="Напиток газированный Fr. Bar Jelly Bears (мармеладные мишки)  пэт 0,480 1*12" Decimal_ОстатокЧита="2460" Decimal_ОстатокБорзя="353" Decimal_ОстатокНерчинск="1" Decimal_ОстатокКраснокаменск="0" Boolean_ЧестныйЗнак="True" Boolean_ЧестныйЗнак_ПоэкземплярныйУчет="True" Boolean_Весовой="False" Boolean_РазрешитьПревышениеКоличестваПлана="False">
+						<QuantityPolicy multiline="False">
+							<PackingIds>
+								<String>B-612-____121476Ч</String>
+								<String>B-612-____121475Ч</String>
+							</PackingIds>
+						</QuantityPolicy>
+						<Packings>
+							<Packing barcode="7640157156415" id="B-612-____121475Ч" name="шт"/>
+							<Packing barcode="7640157156422" id="B-612-____121476Ч" name="кор" unitsQuantity="12"/>
+						</Packings>
+					</Product>
+				</Row>
+			</Rows>
+		</DocumentTable>
+	</Tables>
+	<DeclaredItems>
+		<DocumentItem uid="345d4c4c-8feb-4292-91b7-28f4cec79e39" productId="B-49-_____75116Ч" packingId="B-612-____121475Ч" declaredQuantity="24" createdBy="ERP">
+			<Fields>
+				<FieldValue fieldName="КоличествоПланДляЧеловека">
+					<Value clr:Type="String">2 кор(12)</Value>
+				</FieldValue>
+			</Fields>
+		</DocumentItem>
+		<DocumentItem uid="e4481503-97ef-48bb-874d-f444100f12d7" productId="B-49-_____75118Ч" packingId="B-612-____121479Ч" declaredQuantity="12" createdBy="ERP">
+			<Fields>
+				<FieldValue fieldName="КоличествоПланДляЧеловека">
+					<Value clr:Type="String">1 кор(12)</Value>
+				</FieldValue>
+			</Fields>
+		</DocumentItem>
+		<DocumentItem uid="33147cc0-9b37-4d06-b91a-98e3ff29392d" productId="B-49-_____67551Ч" packingId="B-612-____111175Ч" declaredQuantity="2" createdBy="ERP">
+			<Fields>
+				<FieldValue fieldName="КоличествоПланДляЧеловека">
+					<Value clr:Type="String">2 шт</Value>
+				</FieldValue>
+			</Fields>
+		</DocumentItem>
+		<DocumentItem uid="8f3c8fe9-ca8c-4a42-b0b1-1e16e8feaaa9" productId="B-49-_____61136Ч" packingId="B-612-____102574Ч" declaredQuantity="3" createdBy="ERP">
+			<Fields>
+				<FieldValue fieldName="КоличествоПланДляЧеловека">
+					<Value clr:Type="String">3 шт</Value>
+				</FieldValue>
+			</Fields>
+		</DocumentItem>
+		<DocumentItem uid="3169bda2-fe96-4253-a929-fcc35355a5fb" productId="B-49-_____53427Ч" packingId="B-612-_____91365Ч" declaredQuantity="1" createdBy="ERP">
+			<Fields>
+				<FieldValue fieldName="КоличествоПланДляЧеловека">
+					<Value clr:Type="String">1 кг</Value>
+				</FieldValue>
+			</Fields>
+		</DocumentItem>
+	</DeclaredItems>
+	<CurrentItems/>
+</Document>
