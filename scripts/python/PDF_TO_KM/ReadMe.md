@@ -15,4 +15,4 @@ py -m pip install pymupdf numpy zxing-cpp
 ## Использование
 Поместите ваши PDF файлы с маркировками в каталог ```import```, запустите скрипт ```py main.py```
 
-![[img/img1.png]]
+![Скриншот результата скрипта](./img/img1.png)
